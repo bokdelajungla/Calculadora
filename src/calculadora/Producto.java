@@ -1,4 +1,4 @@
-package Calculadora;
+package calculadora;
 
 /**
  * Esta es una clase para calcular el producto.
@@ -12,8 +12,8 @@ public class Producto {
 	/**
 	 * Calcula el producto de dos numeros reales.
 	 * 
-	 * @param num1 Es la variable que recoger· el primer dato.
-	 * @param num2 Es la Variable que recoger· el segundo dato para calcularlo junto
+	 * @param num1 Es la variable que recoger√° el primer dato.
+	 * @param num2 Es la Variable que recoger√° el segundo dato para calcularlo junto
 	 *             con la anterior variable.
 	 * @return Devuelve el resultado de multiplicar num1 por num2.
 	 */
@@ -26,8 +26,8 @@ public class Producto {
 	 * Calcula el producto de dos numeros enteros.
 	 *  <h2> <b>ATENCION: </b> Si los numeros introducidos son muy grandes no nos permitira ejecutar, ya que se sale de los rangos .</h2>
 	 * 
-	 * @param num1 Es la variable que recoger· el primer dato.
-	 * @param num2 Es la Variable que recoger· el segundo dato para calcularlo junto
+	 * @param num1 Es la variable que recoger√° el primer dato.
+	 * @param num2 Es la Variable que recoger√° el segundo dato para calcularlo junto
 	 *             con la anterior variable.
 	 * @return Devuelve el resultado de multiplicar num1 por num2.
 	 */
@@ -39,9 +39,9 @@ public class Producto {
 	/**
 	 * Calcula el producto de tres numeros reales.
 	 * 
-	 * @param num1 Es la variable que recoger· el primer dato.
-	 * @param num2 Es la Variable que recoger· el segundo dato.
-	 * @param num3 Es la Variable que recoger· el tercer dato.
+	 * @param num1 Es la variable que recoger√° el primer dato.
+	 * @param num2 Es la Variable que recoger√° el segundo dato.
+	 * @param num3 Es la Variable que recoger√° el tercer dato.
 	 * @return Devuelve el resultado de multiplicar num1 por num2 y num3.
 	 */
 	public double multiplicar(double num1, double num2, double num3) {
@@ -52,8 +52,8 @@ public class Producto {
 	/**
 	 * Calcula la potencia de un numero.
 	 * 
-	 * @param num1 Es la variable que recoger· el primer dato, siendo esta la base.
-	 * @param num2 Es la variable que recoger· el segundo dato, siendo esta el
+	 * @param num1 Es la variable que recoger√° el primer dato, siendo esta la base.
+	 * @param num2 Es la variable que recoger√° el segundo dato, siendo esta el
 	 *             exponente.
 	 * @return Devuelve el resultado de la base elevada al exponente.
 	 */
